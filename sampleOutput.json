@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 691,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "Microsoft Adds Bing Chat to SwiftKey Beta for Android",
+            "description": "Plus: Kobo’s new E Ink tablet is made for doodling, Google moves podcasts into YouTube Music, and Peloton connects to Android watches.",
+            "url": "https://www.wired.com/story/bing-chat-swiftkey-beta-android/",
+            "urlToImage": "https://media.wired.com/photos/643070d14b81c928190defda/191:100/w_1280,c_limit/Bing's-AI-Chatbot-Can-Now-Write-Your-Text-Messages-Gear-GettyImages-1465611774.jpg",
+            "publishedAt": "2023-04-08T13:00:00Z",
+            "content": "The ongoing incursion of artificial intelligence into every app, service, and facet of your life continues. Microsofts popular Android keyboard app SwiftKey lets you type by swiping across letters on… [+3049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian Staff",
+            "title": "From The Super Mario Bros Movie to Parenting Hell Live: a complete guide to this week’s entertainment",
+            "description": "Whether it’s a pixelated plumber hitting the big screen or Rob Beckett and Josh Widdicombe taking their podcast to arenas, our critics have you covered for the Easter and beyondThe Super Mario Bros MovieOut nowIt’s a-him, Mario! The pixelated plumber has come…",
+            "url": "https://www.theguardian.com/culture/2023/apr/08/from-the-super-mario-bros-movie-to-parenting-hell-live-a-complete-guide-to-this-weeks-entertainment",
+            "urlToImage": "https://i.guim.co.uk/img/media/a53a39799a2b73ee4e1cf825e3135daf82928f39/1213_600_1415_849/master/1415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b50a52a9901285bddb2f4fa83dfb7ed",
+            "publishedAt": "2023-04-08T05:00:13Z",
+            "content": "Going out: Cinema\r\nThe Super Mario Bros MovieOut nowIts a-him, Mario! The pixelated plumber has come a long way since his first appearance as Jumpman in a 1981 arcade game. These days, hes voiced by … [+10314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Yotam Ottolenghi",
+            "title": "Bean stew, clam casserole and a creamy dip: Yotam Ottolenghi’s recipes for cannellini beans",
+            "description": "Jarred cannellini beans are best with grilled tomatoes and crisp oregano, tinned work wonders in a creamy dip and zippy sauce, and dried beans complete a gorgeous shellfish stew with spiced tomatoTinned beans, jarred beans and dried beans: happily, there is u…",
+            "url": "https://www.theguardian.com/food/2023/apr/08/cannellini-bean-recipes-yotam-ottolenghi-clam-casserole-tomato-sweet-potato-dip-urfa-sauce",
+            "urlToImage": "https://i.guim.co.uk/img/media/dcfbcef0b636c819d6e23dcce7e5c950d5906bf3/0_989_3415_2049/master/3415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4916d94ebbfcbaf30e2e420d1a24c2d7",
+            "publishedAt": "2023-04-08T07:00:15Z",
+            "content": "Tinned beans, jarred beans and dried beans: happily, there is use for them all. For convenience, its tinned all the way. Jarred, meanwhile, have the benefit of being big, buttery and instantly ready,… [+8386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Stops Signing iOS 16.3.1 to Prevent Downgrading",
+            "description": "Following the release of iOS 16.4.1 today, Apple has stopped signing iOS 16.3.1, preventing iPhone users from downgrading to that software version. iOS 16.4, iOS 16.4.1, and the iOS 16.5 beta remain signed at the time of writing.\n\n\n\n\n\niOS 16.3.1 was released …",
+            "url": "https://www.macrumors.com/2023/04/07/apple-stops-signing-ios-16-3-1/",
+            "urlToImage": "https://images.macrumors.com/t/I6nGfzeMmayDMMecSVWCQSUpLWQ=/2500x/article-new/2023/02/iOS-16.3.1-Public-Beta-Feature.jpg",
+            "publishedAt": "2023-04-08T02:29:56Z",
+            "content": "Following the release of iOS 16.4.1 today, Apple has stopped signing iOS 16.3.1, preventing iPhone users from downgrading to that software version. iOS 16.4, iOS 16.4.1, and the iOS 16.5 beta remain … [+587 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "MacRumors Staff",
+            "title": "Top Stories: iOS 17 and watchOS 10 Rumors, When to Expect a New iMac, and More",
+            "description": "WWDC is now just two months away, and we're starting to hear a bit more about what we might see with upcoming iOS 17 and watchOS 10 updates that should be unveiled during the keynote.\n\n\n\n\n\nThis week also saw the release of an iOS 16.4.1 bug fix update, anothe…",
+            "url": "https://www.macrumors.com/2023/04/08/top-stories-ios-17-watchos-10-rumors/",
+            "urlToImage": "https://images.macrumors.com/t/0v6rR6VqVq6JRGH-t2VBONRUGUc=/1600x/article-new/2023/04/top-stories-8apr2023.jpg",
+            "publishedAt": "2023-04-08T13:00:00Z",
+            "content": "WWDC is now just two months away, and we're starting to hear a bit more about what we might see with upcoming iOS 17 and watchOS 10 updates that should be unveiled during the keynote.\r\nThis week also… [+3786 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kevin Webb",
+            "title": "How to watch UFC 287: Adesanya faces Pereira in a rematch for the middleweight championship",
+            "description": "Alex Pereira will defend the middleweight title against former champion Israel Adesanya at UFC 287. You can stream the PPV on April 8 on ESPN+.",
+            "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-ufc-287-pereira-vs-adesanya-2023-4",
+            "urlToImage": "https://i.insider.com/6430747d5a15060019d8906f?width=1200&format=jpeg",
+            "publishedAt": "2023-04-08T14:01:18Z",
+            "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.Alex Pereira and Israel Adesanya.Photo by Getty Images\r\n<ul>\n<li>UFC 287 will stream live on April 8, with the mai… [+4273 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "Robinhood's head of investment strategy says retail traders are continuing to pile into stocks - and now favor long-term strategies over the rush of meme plays",
+            "description": "In an interview with Insider, two-decade Wall Street veteran Steph Guild explained how traders have shifted their approach since the meme-stock boom.",
+            "url": "https://markets.businessinsider.com/news/stocks/robinhood-day-trader-retail-investor-stock-market-investing-meme-trends-2023-4",
+            "urlToImage": "https://i.insider.com/643000e23007470019fe14ea?width=1200&format=jpeg",
+            "publishedAt": "2023-04-08T10:30:11Z",
+            "content": "Steph Guild, Robinhood head of investment strategyRobinhood\r\n<ul>\n<li>In an interview with Insider, Robinhood's head of investment strategy explained how retail investor behavior has shifted since la… [+3420 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay,Lakshmi Varanasi",
+            "title": "The eating habits of tech executives: From Mark Zuckerberg's 'kill what you eat' routine to Elon Musk's Diet Coke obsession",
+            "description": "Some of the biggest names in tech have pretty bizarre eating habits. From Musk to Zuckerberg, here's what they've said about their diets.",
+            "url": "https://www.businessinsider.com/steve-jobs-elon-musk-bill-gates-mark-zuckerberg-diets-2023-4",
+            "urlToImage": "https://i.insider.com/643082f95a15060019d89556?width=1200&format=jpeg",
+            "publishedAt": "2023-04-08T11:00:17Z",
+            "content": "Elon Musk loves donuts. The Twitter CEO recently tweeted that he eats a donut every morning.Dimitrios Kambouris / Staff/ Brian Hagiwara/Getty Images/ Trisha Gopal/Insider\r\n<ul>\n<li>A number of tech b… [+13759 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hallam Bullock",
+            "title": "After gaining control of our reporter's phone, a hacker ripped her off for $10,000. She set out to find them.",
+            "description": "In today's edition of 10 Things in Tech: TikTok has changed the dance industry, Musk's $1 million bounty, and your Mac may contain a hidden manifesto.",
+            "url": "https://www.businessinsider.com/hacker-hunting-elon-musk-apple-bitcoin-bob-lee-lex-fridman-2023-4",
+            "urlToImage": "https://i.insider.com/642eea6fde7d9200193a4bc7?width=1200&format=jpeg",
+            "publishedAt": "2023-04-08T11:30:13Z",
+            "content": "Do you eat meat, reader? If so, what is your meatball of choice — beef, chicken… mammoth? Yes, you read that right. Newsletter editor Hallam Bullock here, coming to you from London.An Australian star… [+4054 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Manu García (Visnuh)",
+            "title": "Las cinco mejores ofertas del Aniversario Web de MediaMarkt: smart TVs, teléfonos, portátiles gaming y más",
+            "description": "MediaMarkt sigue de aniversario. Hasta el día 11, tenemos rebajas más que atractivas en productos como smart TVs, smartphones, cafeteras o aspiradores y, como siempre, los hemos reunido en esta selección, para ti. Aquí vas a encontrar los cinco artículos más …",
+            "url": "https://www.xataka.com/seleccion/cinco-mejores-ofertas-aniversario-web-mediamarkt-smart-tvs-telefonos-portatiles-gaming",
+            "urlToImage": "https://i.blogs.es/265227/ofertas_mediamarkt/840_560.jpeg",
+            "publishedAt": "2023-04-08T08:30:51Z",
+            "content": "MediaMarkt sigue de aniversario. Hasta el día 11, tenemos rebajas más que atractivas en productos como smart TVs, smartphones, cafeteras o aspiradores y, como siempre, los hemos reunido en esta selec… [+4009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "How to watch UFC Pereira vs Adesanya 2 on iPhone, Apple TV, web",
+            "description": "UFC 287 is set for tonight, Saturday, April 8 at 7 pm PT / 10 pm ET at the Kaseya Center in Miami. Here’s how to watch UFC Pereira vs Adesanya 2 on iPhone, Mac, Apple TV, and the web.\n more…\nThe post How to watch UFC Pereira vs Adesanya 2 on iPhone, Apple TV,…",
+            "url": "https://9to5mac.com/2023/04/08/how-to-watch-ufc-pereira-vs-adesanya-2/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/how-to-watch-pereira-vs-adesanya-2.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-04-08T13:55:00Z",
+            "content": "UFC 287 is set for tonight, Saturday, April 8 at 7 pm PT / 10 pm ET at the Kaseya Center in Miami. Heres how to watch UFC Pereira vs Adesanya 2 on iPhone, Mac, Apple TV, and the web.\r\nWell cover how … [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work: Apple’s separation of security and features – a game-changer for device security",
+            "description": "As we increasingly rely on technology for communication, work, and entertainment, it’s crucial to ensure the security of our devices. Apple has long been a leader in this regard, and it continues to set the standard with their approach to security. In this we…",
+            "url": "https://9to5mac.com/2023/04/08/apples-separation-of-security-and-features/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Future-Macs.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-04-08T11:00:00Z",
+            "content": "As we increasingly rely on technology for communication, work, and entertainment, it’s crucial to ensure the security of our devices. Apple has long been a leader in this regard, and it continues to … [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple stops signing iOS 16.3.1 following the release of iOS 16.4 and iOS 16.4.1",
+            "description": "Apple has stopped signing iOS 16.3.1 and iPadOS 16.3.1 following the release of iOS 16.4 and iOS 16.4.1 updates in the last two weeks. This means that iPhone and iPad users can no longer downgrade to this version of the operating system if they’re already run…",
+            "url": "https://9to5mac.com/2023/04/07/apple-stops-signing-ios-16-3-1-following-the-release-of-ios-16-4-and-ios-16-4-1/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/ios-16-security.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-04-08T02:54:16Z",
+            "content": "Apple has stopped signing iOS 16.3.1 and iPadOS 16.3.1 following the release of iOS 16.4 and iOS 16.4.1 updates in the last two weeks. This means that iPhone and iPad users can no longer downgrade to… [+2162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Fernando Silva",
+            "title": "Hands-on: iPhone 14 & 14 Pro accessories to enhance your iPhone experience [Video]",
+            "description": "The iPhone 14 lineup has been out for almost six months now. After using it for a while, I’ve come to realize that the right accessories can greatly enhance my user experience; from protecting my phone to extending its battery life, the right accessories can …",
+            "url": "https://9to5mac.com/2023/04/08/hands-on-iphone-14-14-pro-accessories-to-enhance-your-iphone-experience-video/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/IMG_0011.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-04-08T14:00:00Z",
+            "content": "The iPhone 14 lineup has been out for almost six months now. After using it for a while, I’ve come to realize that the right accessories can greatly enhance my user experience; from protecting my pho… [+8596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Stephen Williams",
+            "title": "Ultimate Mini Clubman — the 'Final Edition' — will land in the U.S.",
+            "description": "Filed under:\n MINI,Wagon,Special and Limited Editions\n Continue reading Ultimate Mini Clubman — the 'Final Edition' — will land in the U.S.\nUltimate Mini Clubman — the 'Final Edition' — will land in the U.S. originally appeared on Autoblog on Sat, 8 Apr 2023 …",
+            "url": "https://www.autoblog.com/2023/04/08/mini-clubman-final-edition-us-pricing/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/04/07160123/P90497326_highRes.jpg",
+            "publishedAt": "2023-04-08T13:00:00Z",
+            "content": "Mini has confirmed that its Final Edition version of the Clubman model will be offered in the United States, but its no bargain basement edition: the price is $47,145, including $995 destination.\r\nWh… [+1341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Sponsored Content)",
+            "title": "5 Ultimate Methods to Fix iPad Stuck on Apple Logo",
+            "description": "Is your iPad stuck on the Apple logo? Try these five fixes!The iPad is a perfect tablet, unless it won't boot. The last thing anyone wants is to find their iPad stuck on Apple logo, as it effectively makes their tablet unusable. It's a scary prospect, especia…",
+            "url": "https://appleinsider.com/articles/23/04/08/5-ultimate-methods-to-fix-ipad-stuck-on-apple-logo",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/53428-107211-44523-86816-iPad-Top-Down-Wide-xl-xl.jpg",
+            "publishedAt": "2023-04-08T13:07:14Z",
+            "content": "The iPad is a perfect tablet, unless it won't boot. \r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nIs your iPad stuck on the Apple logo? Try these five … [+8599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Daily deals April 8: $50 off 2022 iPad, $110 off M2 Mac mini, 50% off Dell Gaming Monitor",
+            "description": "Friday's top deals include 13% off Jamo Studio Series S 803 Home Cinema System, 38% off Amazon Fire TV 50-inch 4K Smart TV, 15% off Asus 27-inch Curved Monitor, and more.Deals on Saturday include a Mac mini, the iPad, and a Dell monitor. The AppleInsider edit…",
+            "url": "https://appleinsider.com/articles/23/04/08/daily-deals-april-8-50-off-2022-ipad-110-off-m2-mac-mini-50-off-dell-gaming-monitor",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/53869-108381-deals-april-8-xl.jpg",
+            "publishedAt": "2023-04-08T14:01:14Z",
+            "content": "Deals on Saturday include a Mac mini, the iPad, and a Dell monitor. \r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nFriday's top deals include 13% off Ja… [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Charles Martin)",
+            "title": "Reminder: using Chrome on a Mac defeats Apple's privacy features",
+            "description": "Chrome is a perfectly functional web browser, but it and Google's other services deceptively obscure their incredibly deep data-collation and monetization practices from users. Here's how.Apple works incredibly hard to protect the privacy of its users on the …",
+            "url": "https://appleinsider.com/articles/23/04/08/reminder-using-chrome-on-a-mac-defeats-apples-privacy-features",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/53767-108162-Welcome-to-Chrome-xl.jpg",
+            "publishedAt": "2023-04-08T17:23:27Z",
+            "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nChrome is a perfectly functional web browser, but it and Google's other services deceptively obscure their … [+9647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "New iPhone 15 Pro Max renders show larger camera bump",
+            "description": "New renders of the iPhone 15 Pro Max show the model has a slightly larger rear camera bump, as well as offering another look at the solid-state buttons.[Twitter/ShrimpApplePro]Case manufacturers often use leaks to create a CAD drawing of inbound iPhone models…",
+            "url": "https://appleinsider.com/articles/23/04/08/new-iphone-15-pro-max-renders-show-larger-camera-bump",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/53872-108382-renders-shrimp-xl.jpg",
+            "publishedAt": "2023-04-08T18:46:57Z",
+            "content": "[Twitter/ShrimpApplePro]\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nNew renders of the iPhone 15 Pro Max show the model has a slightly larger rear ca… [+2306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "メディアジーンメディアコマース",
+            "title": "カナル型イヤホンが苦手な人にもおすすめできるAirPods（第3世代）がポイント5倍に【Amazonセール】",
+            "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2023年4月8日は、バッファローのポータブルSSD｢SSD-PUT1.0U3-B/N｣が41％オフ、Appleの「AirPods（第3世代）」がポイント5倍など、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+            "url": "https://www.gizmodo.jp/2023/04/amazon-timesale-2023-0408-1.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/04/08/GIZa.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-04-08T09:45:00Z",
+            "content": "Copyright © mediagene Inc. All Rights Reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kourtnee Jackson",
+            "title": "Save Money and Let These Streaming Services Go This Month - CNET",
+            "description": "You don't really need all those subscriptions. Here are the best ones to keep this month.",
+            "url": "https://www.cnet.com/tech/services-and-software/save-money-and-let-these-streaming-services-go-this-month/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ebf01d34fd0f1dc9356ac90b2d151fb408827d55/hub/2023/03/27/23c03d52-a078-4000-8017-7e84af489aa0/hbo-max-elizabeth-olsen-love-death.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-04-08T09:00:03Z",
+            "content": "Figuring out which streaming services to keep can feel overwhelming, especially when you factor in the added cost of live sports now that Major League Baseball is back. Plus, the costs add up quickly… [+8143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "zac.bowden@futurenet.com (Zac Bowden)",
+            "title": "Surface Studio 2+ review: The revolutionary PC that leaves you divided between love and hate",
+            "description": "The Surface Studio 2+ is a minor refresh over its predecessor, with better performance in the same design and thermal envelope. This means we're still dealing with laptop-grade CPU and GPU, and last-gen ones at that. But it's still genuinely unique, and its d…",
+            "url": "https://www.windowscentral.com/hardware/surface/surface-studio-2-review-the-revolutionary-pc-that-leaves-you-divided-between-love-and-hate",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bcoVLXPrvJHUVWbMqniT6Q-1200-80.jpg",
+            "publishedAt": "2023-04-08T16:35:07Z",
+            "content": "Microsoft is back with a new Surface all-in-one desktop PC, and on the surface (heh), not much has changed. But with a new processor and GPU under the hood, is the Surface Studio finally worth its in… [+13287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Olivier",
+            "title": "Si vous avez une ancienne versions d’iOS, vous allez perdre ces services sur votre iPhone",
+            "description": "Les utilisateurs d'anciens appareils Apple pourraient bien recevoir une notification d'Apple dans quelques temps. Le constructeur va les prévenir que plusieurs de ses services ne seront plus actifs, ce qui va fortement en réduire l'utilité.\nSi vous avez une a…",
+            "url": "https://www.journaldugeek.com/2023/04/08/des-services-apple-en-moins-pour-danciennes-versions-dios/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/04/sans-titre-5-11.jpg",
+            "publishedAt": "2023-04-08T14:00:32Z",
+            "content": "Les utilisateurs d'anciens appareils Apple pourraient bien recevoir une notification d'Apple dans quelques temps. Le constructeur va les prévenir que plusieurs de ses services ne seront plus actifs, … [+2647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Journal du Geek",
+            "title": "Les cybercriminels tremblent devant cet antivirus français, invincible",
+            "description": "Intego est un logiciel antivirus français qui peut être utilisé sur Mac et Windows, et qui offre une redoutable efficacité. Il est largement reconnu dans son domaine avec plus de 40 millions de clients qui lui font confiance. Ce week-end, Intego propose une o…",
+            "url": "https://www.journaldugeek.com/bon-plan/les-cybercriminels-tremblent-devant-cet-antivirus-francais-invincible/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/04/homme-masque.jpg",
+            "publishedAt": "2023-04-08T07:11:02Z",
+            "content": "Intego est un logiciel antivirus français qui peut être utilisé sur Mac et Windows, et qui offre une redoutable efficacité. Il est largement reconnu dans son domaine avec plus de 40 millions de clien… [+4068 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Olivier",
+            "title": "Les smartphones pliants vont-ils plier le marché ?",
+            "description": "Le salut de l'industrie des smartphones est-il dans les écrans pliables ? Ce serait aller un peu vite car le secteur des téléphones pliants ne représente qu'une part très réduite du total des ventes de smartphones. Mais c'est un secteur très dynamique où les …",
+            "url": "https://www.journaldugeek.com/?p=50402904",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/03/samsung-galaxy-z-fold4-live-27.jpg",
+            "publishedAt": "2023-04-08T09:00:04Z",
+            "content": "Le salut de l'industrie des smartphones est-il dans les écrans pliables ? Ce serait aller un peu vite car le secteur des téléphones pliants ne représente qu'une part très réduite du total des ventes … [+2612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Journal du Geek",
+            "title": "Carte bancaire. Si votre code secret figure dans cette liste, changez-le en urgence",
+            "description": "Le code secret de votre carte bancaire est-il trop facile à déterminer par un pirate informatique ? Une étude menée par Nick Berry, un data scientist chez Meta, a voulu déterminer les codes qu'il faut absolument éviter.\nCarte bancaire. Si votre code secret fi…",
+            "url": "https://www.journaldugeek.com/2023/04/08/carte-bancaire-si-votre-code-secret-figure-dans-cette-liste-changez-le-en-urgence/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/04/cartebancaire-distributeur.jpg",
+            "publishedAt": "2023-04-08T06:20:00Z",
+            "content": "Le code secret de votre carte bancaire est-il trop facile à déterminer par un pirate informatique ? Une étude menée par Nick Berry, un data scientist chez Meta, a voulu déterminer les codes qu'il fau… [+4021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "Apple iPhone SE (2022) VS Sony Xperia 10 IV: características, diferencias y precios",
+            "description": "El teléfono más asequible de Apple es el iPhone SE de 3ª generación, un dispositivo que destaca por su potencia, aunque no tanto por su diseño, que recicla el visto en terminales de la compañía desde el iPhone 6 (2014) y no resulta atractivo para los usuarios…",
+            "url": "https://www.applesfera.com/seleccion/apple-iphone-se-2022-vs-sony-xperia-10-iv-caracteristicas-diferencias-precios",
+            "urlToImage": "https://i.blogs.es/dde210/sony-vs-iphone/840_560.jpeg",
+            "publishedAt": "2023-04-08T18:00:51Z",
+            "content": "El teléfono más asequible de Apple es el iPhone SE de 3ª generación, un dispositivo que destaca por su potencia, aunque no tanto por su diseño, que recicla el visto en terminales de la compañía desde… [+6087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Isra Fdez",
+            "title": "Le regaló un Mac al mismísimo Mike Jagger y éste lo ignoró por completo: Steve Jobs se vengó insultándole",
+            "description": "Hubo un día en el que Steve Jobs y Mike Jagger coincidieron en la misma habitación. Aunque lo que salió de aquello no fue precisamente fructífero. Más bien acabó con un silencio incómodo y una sesión improvisada de informática a la mismísima hija del cantante…",
+            "url": "https://www.applesfera.com/curiosidades/le-regalo-mac-al-mismisimo-mike-jagger-este-ignoro-completo-steve-jobs-se-vengo-insultandole",
+            "urlToImage": "https://i.blogs.es/41c6b5/jobs/840_560.jpeg",
+            "publishedAt": "2023-04-08T11:00:51Z",
+            "content": "Hubo un día en el que Steve Jobs y Mike Jagger coincidieron en la misma habitación. Aunque lo que salió de aquello no fue precisamente fructífero. Más bien acabó con un silencio incómodo y una sesión… [+5543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Fran Bouzas",
+            "title": "Cómo bajar el brillo en la pantalla del iPhone por debajo del límite mínimo",
+            "description": "El otro día, en Las Charlas de Applesfera, conversaba con mi compañero Pedro Aznar sobre la WWDC23, los futuros sistemas operativos, y demás. Una de las cosas sobre las que tratamos fue iOS 17, y en un momento, Pedro me preguntó qué le pedía yo, a título pers…",
+            "url": "https://www.applesfera.com/tutoriales/como-bajar-brillo-pantalla-iphone-debajo-limite-minimo",
+            "urlToImage": "https://i.blogs.es/6cf2c6/diseno-sin-titulo-21/840_560.png",
+            "publishedAt": "2023-04-08T15:00:53Z",
+            "content": "El otro día, en Las Charlas de Applesfera, conversaba con mi compañero Pedro Aznar sobre la WWDC23, los futuros sistemas operativos, y demás. Una de las cosas sobre las que tratamos fue iOS 17, y en … [+1819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Danny Maiorca",
+            "title": "7 Types of Software and Tools That Every YouTuber Should Use",
+            "description": "These tools are essential for every YouTuber who wants to maintain consistent growth and ensure long-term success.",
+            "url": "https://www.makeuseof.com/software-and-tools-every-youtuber-needs/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/how-to-dub-desektop-setup.jpg",
+            "publishedAt": "2023-04-08T12:30:16Z",
+            "content": "Starting a YouTube channel is, in theory, quite easy. All you need to do is turn on your camera or smartphone, start recording, and upload your video. But in the long run, growing an audience on the … [+6380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Brent Dirks",
+            "title": "Sonos Ray vs. Sonos Beam: Which Soundbar Best for You?",
+            "description": "See how two of the popular Sonos home theater soundbars stack up against each other.",
+            "url": "https://www.makeuseof.com/sonos-ray-vs-sonos-beam/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sonos-beam-vs-sonos-ray.jpg",
+            "publishedAt": "2023-04-08T12:01:17Z",
+            "content": "Along with a wide variety of speakers, Sonos also offers a slate of home theater soundbars.\r\nWhile the top-of-the-line Sonos Arc offers true Dolby Atmos sound and much more, it might be out of the pr… [+5725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Ajit Singh",
+            "title": "Best screen protectors for the 10.9-inch iPad 10",
+            "description": "This article lists the best screen protectors for the 10.9-inch iPad 10.",
+            "url": "https://phandroid.com/2023/04/08/best-screen-protectors-for-the-10-9-inch-ipad-10/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-08T12:45:24Z",
+            "content": "Apple refreshed its vanilla iPad lineup with a new model last year which is the 10th generation release. The new iPad 10 comes with many improvements including the biggest display in the history of t… [+910 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Mahmoud Itani",
+            "title": "WWDC23: What to expect and not to expect from Apple's conference",
+            "description": "Apple's WWDC23 is right around the corner! Here's everything we expect to see (and not to see) in both the software and hardware departments.",
+            "url": "https://www.xda-developers.com/wwdc23/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/03/apple-wwdc23-hero_big-jpg-large_2x.jpg",
+            "publishedAt": "2023-04-08T15:00:17Z",
+            "content": "WWDC23 will start on June 5, and this year's conference could be a significant one. Apple not only gives us previews of upcoming operating systems, but it sometimes includes notable hardware announce… [+3136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Christine Persaud",
+            "title": "How to use Visual Look Up on iPhone",
+            "description": "With Visual Look Up on iPhone, you can learn more about landmarks, plant life, animals, statues, and more from photos already on your phone.",
+            "url": "https://www.xda-developers.com/how-to-use-visual-look-up-on-iphone/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/03/visual-lookup-iphone-feature.jpg",
+            "publishedAt": "2023-04-08T18:00:17Z",
+            "content": "Visual Look Up on iPhone is a neat feature that helps you identify and learn more about different landmarks, statues, art, plants, pets, and more that appear in your personal photos. Great for travel… [+4520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "10 Weekend Reads",
+            "description": "The weekend is here! Pour yourself a mug of  coffee, grab a seat outside, and get ready for our longer-form weekend reads: • The Gambler Who Beat Roulette: For decades, casinos scoffed as mathematicians and physicists devised elaborate systems to take down th…",
+            "url": "https://ritholtz.com/2023/04/weekend-reads-559/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/04/largest200.png",
+            "publishedAt": "2023-04-08T10:30:18Z",
+            "content": "The weekend is here! Pour yourself a mug of  coffee, grab a seat outside, and get ready for our longer-form weekend reads:The Gambler Who Beat Roulette: For decades, casinos scoffed as mathematicians… [+3109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "MiB: Aswath Damodaran: Valuations, Narratives & Academia",
+            "description": "﻿   This week, we speak with Aswath Damodaran, who holds the Kerschner Family Chair in Finance Education at New York University’s Stern School of Business. A nine-time “Professor of the Year” winner at NYU, Damodaran teaches classes in corporate finance and v…",
+            "url": "https://ritholtz.com/2023/04/aswath-damodaran/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/Mib-tile.png",
+            "publishedAt": "2023-04-08T14:00:58Z",
+            "content": "This week, we speak with Aswath Damodaran, who holds the Kerschner Family Chair in Finance Education at New York University’s Stern School of Business. A nine-time “Professor of the Year” winner at N… [+2954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "Mofongo Kicks on Bad Bunny’s adidas Forum Buckle Low and the Nike Lunar Force 1 Fuse “Area 72” for Hypebeast’s Sole Mates",
+            "description": "In Drake’s 2016 Apple Music interview, he states, “The details about your upbringing and your culture are extremely appealing to the world as long as you present them with confidence.” Drizzy’s words of wisdom resonate with Carli and Josué Pacheco thanks to t…",
+            "url": "https://hypebeast.com/2023/4/mofongo-kicks-bunny-adidas-forum-nike-lunar-force-1-fuse-area-72-sole-mates-interview",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F04%2Fmofongo-kicks-bunny-adidas-forum-nike-lunar-force-1-fuse-area-72-sole-mates-interview-tw.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2023-04-08T14:01:16Z",
+            "content": "In Drakes 2016 Apple Music interview, he states, The details about your upbringing and your culture are extremely appealing to the world as long as you present them with confidence. Drizzys words of … [+8438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Hadlee Simons",
+            "title": "What Bluetooth earbuds and headphones does Android Authority use every day?",
+            "description": "From Apple to Samsung and beyond, here is the Bluetooth audio gear (earbuds and headphones) that we use daily at Android Authority.",
+            "url": "https://www.androidauthority.com/bluetooth-audio-daily-team-aa-3265793/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/09/Sony-WH-1000MX3-Bluetooth-pairing.jpg",
+            "publishedAt": "2023-04-08T14:00:47Z",
+            "content": "We mostly focus on smartphones here at Android Authority, but there are plenty of other categories we cover as well. Bluetooth audio is one of these categories, with our sister website SoundGuys comp… [+5557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Jean-Yves Alric",
+            "title": "Critiqué, le streaming a en réalité sauvé l’industrie musicale",
+            "description": "Une récente étude le démontre de manière spectaculaire.",
+            "url": "https://www.presse-citron.net/critique-le-streaming-a-en-realite-sauve-lindustrie-musicale/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2021/07/Spotify-music.jpg",
+            "publishedAt": "2023-04-08T14:00:38Z",
+            "content": "<ul><li>La numérisation de la musique a frappé de plein fouet le secteur</li><li>Mal vu à ses débuts, le streaming a finalement permis de redresser la barre</li><li>Il reste cependant de vrais inégal… [+2621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "KAYTRANDA and Aminé Enlist Pharrell for \"4EVA\"",
+            "description": "Shortly after announcing their KAYTRAMINÉ side project, KAYTRANADA and Aminé have dropped off their debut single \"4EVA\" featuring Pharrell.Clocking in at three minutes and 10 seconds, the track was a co-produced effort between KAYTRANADA and Pharrell, with th…",
+            "url": "https://hypebeast.com/2023/4/kaytranada-amine-kaytramine-pharrell-4eva-single-stream",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F04%2Ftw-kaytranada-amine-kaytramine-pharrell-4eva-single-stream.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2023-04-08T03:43:18Z",
+            "content": "Shortly after announcing their KAYTRAMINÉ side project, KAYTRANADA and Aminé have dropped off their debut single “4EVA” featuring Pharrell.\r\nClocking in at three minutes and 10 seconds, the track was… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "Daft Punk's Thomas Bangalter Delivers 'Mythologies'",
+            "description": "Thomas Bangalter has dropped off his latest effort, Mythologies.Clocking in at approximately an hour and a half, the 23-track project marks the Daft Punk co-founder's first independent orchestral work. Mythologies was originally commissioned by choreographer …",
+            "url": "https://hypebeast.com/2023/4/daft-punk-thomas-bangalter-memories-album-stream",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F04%2Ftw-daft-punk-thomas-bangalter-memories-album-stream.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2023-04-08T09:06:20Z",
+            "content": "Thomas Bangalter has dropped off his latest effort, Mythologies.\r\nClocking in at approximately an hour and a half, the 23-track project marks the Daft Punk co-founder’s first independent orchestral w… [+632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "Labrinth and Billie Eilish Drop Chilling New Track and Music Video \"Never Felt So Alone\"",
+            "description": "After first gracing the soundwaves of Euphoria's second season, Labrinth's \"Never Felt So Alone,\" now featuring the haunting vocals of Billie Eilish, has officially hit streaming platforms. The long-awaited, hotly-desired track, which did not appear on the hi…",
+            "url": "https://hypebeast.com/2023/4/labrinth-billie-eilish-never-felt-so-alone-new-song-music-video-watch",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F04%2Flabrith-billie-eilish-never-felt-so-alone-new-song-music-video-watch-TW.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2023-04-08T16:51:26Z",
+            "content": "After first gracing the soundwaves of Euphoria‘s second season, Labrinth‘s “Never Felt So Alone,” now featuring the haunting vocals of Billie Eilish, has officially hit streaming platforms. The long-… [+1255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Chris Smith",
+            "title": "How to recover deleted messages on your iPhone",
+            "description": "We’ve all been there — accidentally deleting files we didn’t mean to erase. In almost every case, there are ways to recover that lost data. …\nThe post How to recover deleted messages on your iPhone appeared first on BGR.",
+            "url": "https://bgr.com/tech/how-to-recover-deleted-messages-on-your-iphone/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2021/09/apple-iphone-13-7.jpg?quality=82&strip=all",
+            "publishedAt": "2023-04-08T19:10:00Z",
+            "content": "If you buy through affiliate links, we may receive a commission, helping support our product testing. Learn more.We’ve all been there — accidentally deleting files we didn’t mean to erase. In almost … [+3420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espinof.com"
+            },
+            "author": "Fran León",
+            "title": "Esta potente Smart TV Sony Bravia es uno de los mejores chollos de El Corte Inglés: aprovecha los Tecnoprecios para llevarte un modelo con Dolby Vision + Atmos muy barato",
+            "description": "Queda un día para que acaben los Tecnoprecios de El Corte Inglés, pero aún puedes encontrar auténticos chollos en lo que a Smart TVs se refiere. Por ejemplo, tienes disponible esta Smart TV LED Sony Bravia XR-55X90k de 55 pulgadas por 999 euros.\n<!-- BREAK 1 …",
+            "url": "https://www.espinof.com/seleccion/esta-smart-tv-sony-bravia-se-queda-oferta-durante-tecnoprecios-corte-ingles-llevatela-1-000-euros-disfruta-su-dolby-vision-atmos",
+            "urlToImage": "https://i.blogs.es/ef3ca9/ofertas_cpa_v3-copia-5-/840_560.jpeg",
+            "publishedAt": "2023-04-08T09:00:54Z",
+            "content": "Queda un día para que acaben los Tecnoprecios de El Corte Inglés, pero aún puedes encontrar auténticos chollos en lo que a Smart TVs se refiere. Por ejemplo, tienes disponible esta Smart TV LED Sony … [+1746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espinof.com"
+            },
+            "author": "Mikel Zorrilla",
+            "title": "Cuando quieres un compromiso de corta duración: 4 alucinantes miniseries para ver en streaming este fin de semana",
+            "description": "El tiempo libre no abunda nunca tanto como nos gustaría, por lo que hay que elegir muy bien en qué lo empleamos. Eso se aplica especialmente a las series de televisión, pues hay tantas entre las que elegir y requieren tanto tiempo que igual simplemente querem…",
+            "url": "https://www.espinof.com/listas/cuando-quieres-compromiso-corta-duracion-4-alucinantes-miniseries-para-ver-streaming-este-fin-semana",
+            "urlToImage": "https://i.blogs.es/39163d/taron-egerton-en-black-bird/840_560.jpeg",
+            "publishedAt": "2023-04-08T11:16:51Z",
+            "content": "El tiempo libre no abunda nunca tanto como nos gustaría, por lo que hay que elegir muy bien en qué lo empleamos. Eso se aplica especialmente a las series de televisión, pues hay tantas entre las que … [+3788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "imore@futurenet.com (IM Staff)",
+            "title": "Five ways AppleTV needs to improve",
+            "description": "Apple TV has been skating aimlessly for so long now, that we asked ourselves what it needs to feel relevant in the TV space.",
+            "url": "https://www.imore.com/apple/how-could-apple-tv-be-improved",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bbN2PV3qPpgR5UnKHvumhU-1200-80.jpg",
+            "publishedAt": "2023-04-08T11:00:01Z",
+            "content": "Apple’s TV plans have been an interesting adventure since the product was first announced back in September 2006, and it seems to be at a crossroads as to how the hockey puck can go forward.\r\nIt was … [+7167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Aaron Rodgers One Step Closer To Becoming a New York Jet",
+            "description": "Green Bay Packers superstar QB Aaron Rodgers seems to be one step closer to getting his wish of playing football in The Big Apple. New York Jets General Manager Joe Douglas pretty much confirmed on Friday night that Rodgers would be wearing his…",
+            "url": "https://www.tmz.com/2023/04/08/aaron-rodgers-jets-packers-boomer-esiason-joe-douglas/",
+            "urlToImage": "https://imagez.tmz.com/image/e8/16by9/2023/04/08/e8c4b72cc2e44e4c955d72d14ae19f96_xl.png",
+            "publishedAt": "2023-04-08T07:55:11Z",
+            "content": "Green Bay Packers superstar QB Aaron Rodgers seems to be one step closer to getting his wish of playing football in The Big Apple.\r\nNew York Jets General Manager Joe Douglas pretty much confirmed on … [+1020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stereogum"
+            },
+            "author": "Rachel Brodsky",
+            "title": "Topshelf Records Claims Bandcamp Management Asked Them To Cease Support Of Company’s Unionization Efforts",
+            "description": "In March 2022, indie-music platform Bandcamp was purchased by Epic Games, the company behind Fortnite. Last month, members of Bandcamp’s US editorial, design, engineering, and support staff organized with the Office And Professional Employees International Un…",
+            "url": "https://www.stereogum.com/2219680/topshelf-records-claims-bandcamp-management-asked-them-to-cease-support-of-companys-unionization-efforts/news/",
+            "urlToImage": "https://static.stereogum.com/uploads/2023/04/press_b_1080x680_xuayzy-copy-1680979444.jpg",
+            "publishedAt": "2023-04-08T18:48:33Z",
+            "content": "In March 2022, indie-music platform Bandcamp was purchased by Epic Games, the company behind Fortnite. Last month, members of Bandcamp’s US editorial, design, engineering, and support staff organized… [+5469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Miles Klee",
+            "title": "Companies That Get ‘Woke’ Aren’t Going Broke — They’re More Profitable Than Ever",
+            "description": "Sorry, Kid Rock, Bud Light's gonna be just fine",
+            "url": "https://www.rollingstone.com/culture/culture-features/woke-companies-broke-profits-1234710724/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/04/woke-companies-profits-RS-1800.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-04-08T13:00:00Z",
+            "content": "“Get woke, go broke,” has become a rallying cry of the political right whenever they see a brand make the slightest effort to align itself with liberal or progressive values. It’s a meme that allows … [+12106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Benjamin Mamerow",
+            "title": "Apple TV+: Offizieller Trailer zu „Jane“ veröffentlicht",
+            "description": "„Nur, wenn wir verstehen, werden wir uns kümmern. Nur, wenn wir uns kümmern, können wir helfen. Nur, wenn wir helfen, können sie gerettet werden.“ – Jane Goodall. Am Freitag, dem 14. April, dieses Jahres, wird die zehnteilige Serie „Jane“ auf...Zum Beitrag: A…",
+            "url": "https://stadt-bremerhaven.de/apple-tv-offizieller-trailer-zu-jane-veroeffentlicht/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/011123_Apple_Unveils_Premiere_Date_Jane_BIg_Image_01.jpg",
+            "publishedAt": "2023-04-08T09:00:02Z",
+            "content": "„Nur, wenn wir verstehen, werden wir uns kümmern. Nur, wenn wir uns kümmern, können wir helfen. Nur, wenn wir helfen, können sie gerettet werden.“ – Jane Goodall. Am Freitag, dem 14. April, dieses Ja… [+1183 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "André Westphal",
+            "title": "Apple TV 4K: QMS VRR ist in der Praxis eine Enttäuschung",
+            "description": "Apples aktuelle Mediaplayer-Generation aus dem Jahr 2022, die Apple TV 4K. der 3. Generation, unterstützt erstmals QMS VRR (Quick Media Switching). Diese Funktion muss aber auch vom Wiedergabegerät unterstützt werden. Aktuell ist das nur bei den brandneuen LG…",
+            "url": "https://stadt-bremerhaven.de/apple-tv-4k-qms-vrr-ist-in-der-praxis-eine-enttaeuschung/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Apple-TV-4K-Siri-Remote-221018_big.jpg.medium_2x_.jpg",
+            "publishedAt": "2023-04-08T14:00:48Z",
+            "content": "Apples aktuelle Mediaplayer-Generation aus dem Jahr 2022, die Apple TV 4K. der 3. Generation, unterstützt erstmals QMS VRR (Quick Media Switching). Diese Funktion muss aber auch vom Wiedergabegerät u… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "André Westphal",
+            "title": "„Carpool Karaoke: The Series“: Neue Folgen ab 23. Juni 2023 bei Apple TV+",
+            "description": "Apple TV+ wird ab dem 23. Juni 2023 neue Episoden der mit dem Emmy Award ausgezeichneten Serie „Carpool Karaoke: The Series“ zeigen. Als Vorgeschmack: Mit dabei sein werden im Auto bzw. beim Singen Alanis Morissette, Sheryl Lee Ralph, Avril Lavigne,...Zum Bei…",
+            "url": "https://stadt-bremerhaven.de/carpool-karaoke-the-series-neue-folgen-ab-23-juni-2023-bei-apple-tv/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/04/Carpool-Karaoke-Serie.jpg",
+            "publishedAt": "2023-04-08T12:00:04Z",
+            "content": "Apple TV+ wird ab dem 23. Juni 2023 neue Episoden der mit dem Emmy Award ausgezeichneten Serie „Carpool Karaoke: The Series“ zeigen. Als Vorgeschmack: Mit dabei sein werden im Auto bzw. beim Singen A… [+842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Benjamin Mamerow",
+            "title": "Canalys: Westeuropäischer PC-Markt hatte ein hartes viertes Quartal 2022 zu überstehen",
+            "description": "Die PC-Branche in Westeuropa hat ein schwieriges Jahr hinter sich. Laut einer Studie von Canalys sind die PC-Auslieferungen im 4. Quartal 2022 um -38 % im Vergleich zum Vorjahreszeitraum gesunken. Dies betrifft sowohl Desktops als auch Notebooks und Workstati…",
+            "url": "https://stadt-bremerhaven.de/canalys-westeuropaeischer-pc-markt-hatte-ein-hartes-viertes-quartal-2022-zu-ueberstehen/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2020/04/logo-canalys.jpg",
+            "publishedAt": "2023-04-08T04:30:08Z",
+            "content": "Die PC-Branche in Westeuropa hat ein schwieriges Jahr hinter sich. Laut einer Studie von Canalys sind die PC-Auslieferungen im 4. Quartal 2022 um -38 % im Vergleich zum Vorjahreszeitraum gesunken. Di… [+4408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.ru"
+            },
+            "author": "Макс Вильтовский",
+            "title": "Apple экстренно выпустила обновления для iOS, iPadOS и macOS",
+            "description": "Они устраняют уязвимости, которые уже активно используются злоумышленниками.",
+            "url": "https://lifehacker.ru/apple-ekstrennoe-obnovlenie-ios-ipados-i-macos/",
+            "urlToImage": "https://cdn.lifehacker.ru/wp-content/uploads/2023/04/image-11_1680966513-1024x512.png",
+            "publishedAt": "2023-04-08T15:20:52Z",
+            "content": "Apple iOS 16.4.1, iPadOS 16.4.1 macOS 13.3.1 iPhone, iPad Mac . , .\r\n , . , . .\r\n IOSurfaceAccelerator . , App Store iPhone.\r\n WebKit. .\r\n Safari 16.4.1 macOS Monterey macOS Big Sur, , , WebKit."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Srad.jp"
+            },
+            "author": "headless",
+            "title": "Adobe が他社サービスでの認証情報流出を受けてパスワードをリセットしたとの報道",
+            "description": "報じているのは HackRead のみのようだが、Adobe がユーザーのパスワードをリセットしたと通知しているそうだ\n(HackRead の記事)。\n\nAdobe から届いたというメッセージによると、Adobe ID で使われているものと同じユーザー名またはパスワードが他のオンラインサービスのデータ侵害で流出した可能性があるということのようだ。Adobe はウェブサイトごとに異なる認証情報を使うべきだと述べ、この機会に Adobe ID と同じユーザー名やパスワードを使用しているすべてのウェブサイトでパスワード…",
+            "url": "https://security.srad.jp/story/23/04/08/0214242/",
+            "urlToImage": "https://srad.jp/static/topics/leakage_64.png",
+            "publishedAt": "2023-04-08T02:39:00Z",
+            "content": "HackRead Adobe \r\n(HackRead )Adobe Adobe ID Adobe Adobe ID Adobe"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "01net.com"
+            },
+            "author": "Pierre FONTAINE",
+            "title": "Test du Galaxy Book3 Ultra, le « MacBook Pro » de Samsung est aussi frustrant que performant",
+            "description": "Nouveau venu dans la famille des Galaxy Book, l’Ultra affiche une configuration impressionnante, qui est toutefois limitée par sa consommation électrique réduite. Un problème pour s’attaquer au MacBook Pro et à la concurrence ?",
+            "url": "https://www.01net.com/tests/test-du-galaxy-book3-ultra-le-macbook-pro-de-samsung-est-aussi-frustrant-que-performant.html",
+            "urlToImage": "https://www.01net.com/app/uploads/2023/04/3640-mea_1400.jpg",
+            "publishedAt": "2023-04-08T10:10:44Z",
+            "content": "Nouveau venu dans la famille des Galaxy Book, lUltra affiche une configuration impressionnante, qui est toutefois limitée par sa consommation électrique réduite. Un problème pour sattaquer au MacBook… [+17250 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "iOS 16.4.1 and iPadOS 16.4.1 are now out with fixes for actively exploited vulnerabilities",
+            "description": "Today Apple has released iOS 16.4.1 and iPadOS 16.4.1 to the public, and your iPhone or iPad may have already notified you about the availability, as Apple pushes such updates to everyone at the same time. You should probably install the update as soon as pos…",
+            "url": "https://www.gsmarena.com/ios_1641_and_ipados_1641_are_now_out_with_fixes_for_actively_exploited_vulnerabilities-news-58172.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/04/ios-16-4-1/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2023-04-08T01:59:01Z",
+            "content": "Today Apple has released iOS 16.4.1 and iPadOS 16.4.1 to the public, and your iPhone or iPad may have already notified you about the availability, as Apple pushes such updates to everyone at the same… [+667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Touch Arcade"
+            },
+            "author": "Jared Nelson",
+            "title": "Breaking Through a Hole in the Bathroom – The TouchArcade Show #554",
+            "description": "In this week’s episode of The TouchArcade Show I talk about my sweet Coors Light Glassy sunglasses while Eli talks … Continue reading \"Breaking Through a Hole in the Bathroom – The TouchArcade Show #554\"",
+            "url": "https://toucharcade.com/2023/04/08/breaking-through-a-hole-in-the-bathroom-the-toucharcade-show-554/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-08T04:00:01Z",
+            "content": "In this week’s episode of The TouchArcade Show I talk about my sweet Coors Light Glassy sunglasses while Eli talks about his sweet $30 empty box that he bought. We then shift gears into the Caper of … [+1339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Neil Long",
+            "title": "Netflix's game catalogue is often overlooked - but plenty are worth your time",
+            "description": "Few seem to have noticed, but Netflix is quietly building a service that's home to the best in mobile games - and one that hints at something bigger on the horizon.\n\nYes, we've seen these Silicon Valley types trying to 'do games' before. Google tried and quic…",
+            "url": "https://www.eurogamer.net/netflixs-game-catalogue-is-often-overlooked-but-plenty-are-worth-your-time",
+            "urlToImage": "https://assetsio.reedpopcdn.com/netflix-games-copy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2023-04-08T09:00:00Z",
+            "content": "Few seem to have noticed, but Netflix is quietly building a service that's home to the best in mobile games - and one that hints at something bigger on the horizon.\r\nYes, we've seen these Silicon Val… [+7917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Nikita Mazurov",
+            "title": "Twitter Deploys Classic Musk Tactics to Hunt Down Leaker",
+            "description": "The social media giant’s copyright infringement claim against GitHub shows that websites can be compelled to violate users' privacy.\nThe post Twitter Deploys Classic Musk Tactics to Hunt Down Leaker appeared first on The Intercept.",
+            "url": "https://theintercept.com/2023/04/08/twitter-dmca-github-musk/",
+            "urlToImage": "https://theintercept.imgix.net/wp-uploads/sites/1/2023/04/AP23053064060713-e1680809810305.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+            "publishedAt": "2023-04-08T10:00:54Z",
+            "content": "Twitter last month\r\n submitted a Digital Millennium Copyright Act notice to GitHub a web service designed to host user-uploaded source code demanding that certain content be taken down because it was… [+5438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Anthony Di Pizio)",
+            "title": "Don't Forget the Metaverse: 2 Growth Stocks to Buy Before Apple Joins the Party",
+            "description": "Apple is tight-lipped on its rumored virtual reality headset, but CEO Tim Cook sure is optimistic about the prospect.",
+            "url": "https://www.fool.com/investing/2023/04/08/dont-forget-metaverse-2-growth-stocks-buy-apple/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/727051/a-person-wearing-a-virtual-reality-headset.jpg",
+            "publishedAt": "2023-04-08T11:32:00Z",
+            "content": "When it comes to the metaverse, there has been plenty of debate among Wall Street analysts and consumers alike. Do people want fully immersive virtual experiences? Could they spend as much time in vi… [+5636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Keithen Drury)",
+            "title": "Apple Makes Up Nearly Half of Warren Buffett's Portfolio. Here's Why He Should Consider Selling Some",
+            "description": "Buffett isn't worried about a concentrated portfolio, but you should be.",
+            "url": "https://www.fool.com/investing/2023/04/08/apple-makes-up-nearly-half-of-warren-buffetts-port/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/727158/warren-buffett-4-tmf-may-2014.jpg",
+            "publishedAt": "2023-04-08T11:15:00Z",
+            "content": "Of all the great investments Warren Buffett's Berkshire Hathaway (BRK.B 0.68%) has made, few have been more successful than Apple (AAPL 0.55%). Throughout its ownership, Berkshire has done things all… [+4289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Travis Hoium)",
+            "title": "ChatGPT Exposes Siri and Alexa's Biggest Flaws",
+            "description": "Siri and Alexa look terrible compared to the much newer ChatGPT.",
+            "url": "https://www.fool.com/investing/2023/04/08/chatgpt-exposes-siri-and-alexas-biggest-flaws/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/727174/assistant.jpg",
+            "publishedAt": "2023-04-08T10:30:00Z",
+            "content": "Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's boar… [+499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Anthony Di Pizio)",
+            "title": "Here's How Amazon Could Become a $5 Trillion Stock Within a Decade",
+            "description": "Amazon's shareholders could be set for a monster gain over the next 10 years.",
+            "url": "https://www.fool.com/investing/2023/04/08/heres-amazon-could-become-5-trillion-stock-decade/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/726874/a-smiling-courier-delivering-a-box-to-a-smiling-customer.jpg",
+            "publishedAt": "2023-04-08T13:15:00Z",
+            "content": "Amazon (AMZN 0.95%) stock might be down 44% from its all-time high right now, but it's still the fifth most valuable company in the world, with a market capitalization of $1.06 trillion. It's trailin… [+5728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Katie Brockman)",
+            "title": "This Warren Buffett ETF Could Take You From $5,000 to $87,000 With Next to No Effort",
+            "description": "There's a good reason why Warren Buffett highly recommends this investment.",
+            "url": "https://www.fool.com/investing/2023/04/08/warren-buffett-etf-5000-to-87000-no-effort/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/727101/buffett17-tmf.jpg",
+            "publishedAt": "2023-04-08T10:30:00Z",
+            "content": "The stock market can be intimidating at times, especially during periods of economic uncertainty. With concerns that a recession may be on the horizon, it can be a particularly daunting time to inves… [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Jon Quast)",
+            "title": "Worried About Elon's AI Pause? 3 Top Stocks You Can Buy That Wouldn't Be Impacted",
+            "description": "Don't get so caught up in the AI hype that you miss out on these other compelling opportunities.",
+            "url": "https://www.fool.com/investing/2023/04/08/elon-musk-ai-pause-3-top-stocks-buy-now/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/726950/person-think-dark-room-chart-tablet.jpg",
+            "publishedAt": "2023-04-08T11:03:00Z",
+            "content": "\"Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us? Should we risk loss of control of our civilization?\" These questions were asked in a March open l… [+5826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Chris Hill)",
+            "title": "Inflation Data, Disney Layoffs, Moderna's Prospects, and More Market News",
+            "description": "Plus Brad Stone, head of Bloomberg's global tech coverage, shares insights about Amazon and what to watch in the growing AI industry.",
+            "url": "https://www.fool.com/investing/2023/04/08/inflation-data-disney-layoffs-modernas-prospects-a/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/726776/mfm_20230331.jpg",
+            "publishedAt": "2023-04-08T11:30:00Z",
+            "content": "In this podcast, Motley Fool senior analyts Ron Gross and Matt Argersinger discuss:\r\n<ul><li>New inflation data and real estate concerns in Silicon Valley.</li><li>Why they're watching company margin… [+37981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Chris Hill)",
+            "title": "Talking Banks and Cybersecurity With the FDIC's Former Chief Innovation Officer",
+            "description": "Sultan Meghji shares insight on the Silicon Valley Bank situation and other important topics.",
+            "url": "https://www.fool.com/investing/2023/04/08/talking-banks-and-cybersecurity-with-the-fdics-for/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/726929/mfm_20230402.jpg",
+            "publishedAt": "2023-04-08T13:00:00Z",
+            "content": "Sultan Meghji is the former chief innovation officer of the Federal Deposit Insurance Corporation (FDIC) and a professor at the Pratt School of Engineering at Duke University.\r\nMotley Fool producer R… [+30685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Osxdaily.com"
+            },
+            "author": "Paul Horowitz",
+            "title": "How to Use Sidecar in MacOS Ventura",
+            "description": "Sidecar, the feature that allows you to use your iPad as a secondary display for a Mac, is a really great feature for MacOS. But if you have updated to MacOS Ventura, you may find Sidecar is either not working, or what you used to do to use Sidecar is no long…",
+            "url": "https://osxdaily.com/2023/04/08/how-to-use-sidecar-in-macos-ventura/",
+            "urlToImage": "https://cdn.osxdaily.com/wp-content/uploads/2023/04/sidecar-settings-macos-ventura-do-not-exist-lol.jpg",
+            "publishedAt": "2023-04-08T16:21:12Z",
+            "content": "Sidecar, the feature that allows you to use your iPad as a secondary display for a Mac, is a really great feature for MacOS. But if you have updated to MacOS Ventura, you may find Sidecar is either n… [+4228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Daniel Piper",
+            "title": "Illustrator Lisa Bardot on why iPad art is real art",
+            "description": "Procreate Apple pencil etc etc",
+            "url": "https://www.creativebloq.com/news/lisa-bardot-ipad",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JV9LDxoFxY2nHeZdwknTUJ-1200-80.jpg",
+            "publishedAt": "2023-04-08T09:00:56Z",
+            "content": "Illustration on the iPad has come a long way since the tablet was first unveiled in 2010. Back then, you had to make do with drawing with your finger, or worse, a stylus. \"Who wants a stylus?!\" Steve… [+3360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Andro4all.com"
+            },
+            "author": "Sergio Agudo",
+            "title": "Nueve razones por las que los precios de Apple son tan caros",
+            "description": "Si eres un lector habitual, puede que recuerdes que publiqué un artículo sobre detalles a tener en cuenta antes de comprar un iPhone. En dicho artículo reconocí que soy usuario de Apple y de Android al mismo tiempo, a la par que dije que había muchas y distin…",
+            "url": "https://andro4all.com/apple/nueve-razones-por-las-que-los-precios-de-apple-son-tan-caros",
+            "urlToImage": "https://andro4all.com/hero/2023/04/apple-inc-508812_1920.jpg?width=1200",
+            "publishedAt": "2023-04-08T08:01:56Z",
+            "content": "Imagen del logo de Apple en una Apple Store.\r\nSi eres un lector habitual, puede que recuerdes que publiqué un artículo sobre detalles a tener en cuenta antes de comprar un iPhone. En dicho artículo r… [+8274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Andro4all.com"
+            },
+            "author": "Esteban García Marcos",
+            "title": "Steve Jobs andaba de una forma muy rara y este es el curioso motivo",
+            "description": "Steve Jobs ha sido una de las personas más ilustres del mundo de la tecnología. Esto ha llevado a que todo sobre su vida se haya estudiado al milímetro, a veces incluso llevándolo a un exceso de sobrepensarlo. Por ello, sabemos que tenía una ingeniosa respues…",
+            "url": "https://andro4all.com/tecnologia/steve-jobs-andaba-de-una-forma-muy-rara-y-este-es-el-curioso-motivo",
+            "urlToImage": "https://andro4all.com/hero/2023/04/steve_jobs_headshot_2010-crop_cropped_2-1-1.jpg?width=1200",
+            "publishedAt": "2023-04-08T09:00:54Z",
+            "content": "Genio, visionario y gurú, siempre se ha investigado cada ápice de su personalidad\r\nSteve Jobs ha sido una de las personas más ilustres del mundo de la tecnología. Esto ha llevado a que todo sobre su … [+2908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "/auteur/447348-samir-rahmoune.html",
+            "title": "Ce casse à 500 000 dollars d'un Apple Store pourrait sortir d'un film ou d'une série à succès",
+            "description": "Des voleurs ont réussi à s'introduire dans l'Apple Store d'une ville américaine, d'où ils sont repartis avec un butin conséquent.",
+            "url": "https://www.clubic.com/pro/entreprises/apple/actualite-464571-ce-casse-a-500-000-dollars-d-un-apple-store-pourrait-sortir-d-un-film-ou-d-une-serie-a-succes.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/1472059/raw",
+            "publishedAt": "2023-04-08T13:00:00Z",
+            "content": "Dans le monde des braqueurs, il y a ceux qui sortent la grosse artillerie pour braquer des fourgons et qui sont particulièrement voyants. Et puis, il y a les autres, comme cette équipe de voleurs qui… [+649 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Jade Bryan",
+            "title": "Nächster Apple HomePod mit FaceID-Kameras?",
+            "description": "Ein Apple-Patent beschreibt, wie ein HomePod mit FaceID-Kamera Gesichter scannen und Siri-Sprachbefehle mit großer Reichweite unterstützen kann.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/naechster-apple-homepod-mit-faceid-kameras",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_HomePod_2/NextPit_Apple_HomePod_2_Light.jpg",
+            "publishedAt": "2023-04-08T06:00:01Z",
+            "content": "Ein intelligenter Apple-Lautsprecher mit FaceID\r\nDie heutigen Apple-HomePod-Lautsprecher können über Siri oder über die mobile Home App für iPhones und iPads gesteuert werden. Aber in absehbarer Zeit… [+2500 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Appbank.net"
+            },
+            "author": "テクノロジー記事班",
+            "title": "いまiPhoneを買うと後悔する理由",
+            "description": "2022年に登場した最新の「iPhone 14」シリーズ。春は新生活とともに買い替えを考えるユーザーも増える時期ですが、現状では買うのをまだ待ったほうが良いかもしれません。 *Category:テクノロジー Techno […]",
+            "url": "https://www.appbank.net/2023/04/08/technology/2442038.php",
+            "urlToImage": "https://www.appbank.net/wp-content/uploads/2023/04/2023-0407-iPhone-thumb-1.jpeg",
+            "publishedAt": "2023-04-08T10:48:32Z",
+            "content": "2022iPhone 14\r\n*Category:\r\n Technology *Source9to5Mac ,Apple\r\niPhone3\r\n1iPhone 14\r\niPhone 14Apple119,800()239,800()\r\niPhone2021iPhone 13Apple Store98800()\r\n1iPhone202211151\r\n1131AppleiPhoneiPhone 15\r… [+167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Idownloadblog.com"
+            },
+            "author": "Anthony Bouchard",
+            "title": "Apple stops signing iOS 16.3.1 in move that prevents downgrades from iOS 16.4",
+            "description": "Apple has stopped signing iOS & iPadOS 16.3.1 after releasing the newer iOS & iPadOS 16.4 to the public.",
+            "url": "https://www.idownloadblog.com/2023/04/07/apple-unsigns-ios-16-3-1/",
+            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2022/09/iOS-16-Downgrade.jpg",
+            "publishedAt": "2023-04-08T02:56:27Z",
+            "content": "Apple released iOS &amp; iPadOS 16.4 on Monday, March 24th after an extensive beta testing period with a slew of new changes for the mobile experience, including new Emoji, web notifications, enhance… [+3127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Idownloadblog.com"
+            },
+            "author": "Cody Lee",
+            "title": "Tomaito, TimeWave, Albums, and other apps to check out this weekend",
+            "description": "It's the weekend again, and I'm super excited that it's time for another one of our Apps of the Week roundup. This week we have some awesome picks for you, including an AI-infused cookbook, a powerful time-keeping companion, and a beautiful music app. And as …",
+            "url": "https://www.idownloadblog.com/2023/04/08/apps-of-the-week-part-19/",
+            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2018/12/Apps-of-the-week.jpg",
+            "publishedAt": "2023-04-08T13:00:13Z",
+            "content": "It’s the weekend again, and I’m super excited that it’s time for another one of our Apps of the Week roundup. This week we have some awesome picks for you, including an AI-infused cookbook, a powerfu… [+2649 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ijunkie.com"
+            },
+            "author": "Sriansh",
+            "title": "Score $100 Off on the Latest M1 iPad Air and Accessories",
+            "description": "This weekend brings exciting news for all Apple lovers out there. Amazon is offering a flat $100 off on the latest iPad Air (2022) with the M1 chip, along with amazing deals on iPad accessories. The base variant of the latest iPad Air (5th Gen) with the M1 ch…",
+            "url": "https://ijunkie.com/score-100-off-on-the-latest-m1-ipad-air-and-accessories/",
+            "urlToImage": "https://ijunkie.com/wp-content/uploads/2022/11/iPad-Air-KV.jpg",
+            "publishedAt": "2023-04-08T08:51:32Z",
+            "content": "Score $100 Off on the Latest M1 iPad Air and Accessories\r\nThis weekend brings exciting news for all Apple lovers out there. Amazon is offering a flat $100 off on the latest iPad Air (2022) with the M… [+1689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Googlewatchblog.de"
+            },
+            "author": "Jens",
+            "title": "Android im Auto: Infotainment ist fest in Android-Hand – Googles starkes Momentum gegen Apple CarPlay",
+            "description": "Android Auto, Android Automotive oder eine der neuen Hersteller-Plattformen. Praktisch alles basiert auf Android und macht vor allem Apple das Leben schwer. Das Momentum ist auf Googles Seite.Android im Auto: Infotainment ist fest in Android-Hand – Googles st…",
+            "url": "https://www.googlewatchblog.de/2023/04/android-auto-infotainment-hand/",
+            "urlToImage": "https://www.googlewatchblog.de/wp-content/uploads/android-auto-coolwalk-4-1.jpg",
+            "publishedAt": "2023-04-08T14:30:17Z",
+            "content": "Mit Android Auto oder dem großen Bruder Android Automotive lassen sich die wichtigsten Android-Apps direkt auf dem Fahrzeug-Display nutzen, was viele Nutzer nicht mehr missen wollen. Nachdem es einig… [+4458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Rubens Eishima",
+            "title": "Apple TV Kaufberatung: Welche Streaming-Box ist die richtige für Euch?",
+            "description": "Apple bietet mit dem Apple TV eine leistungsstarke Streaming-Box an. Unsere Kaufberatung verrät Euch die Unterschiede zwischen den verschiedenen Modellen.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/beste-apple-tv",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7715851/image/Tom_Eversley_552319280.jpeg",
+            "publishedAt": "2023-04-08T10:43:39Z",
+            "content": "Aktuelle und frühere Generationen von Apple TVs\r\n<table><tr><td> </td><th>Auswahl der Redaktion</th><th>Einsteigermodell</th><th>Das Schnäppchen</th><th>Auslaufmodell 4K</th><th>Auslaufmodell HD</th>… [+10124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sophos.com"
+            },
+            "author": "Paul Ducklin",
+            "title": "Apple issues emergency patches for spyware-style 0-day exploits – update now!",
+            "description": "A bug to hack your browser, then a bug to pwn the kernel... reported from the wild by Amnesty International.",
+            "url": "https://nakedsecurity.sophos.com/2023/04/08/apple-issues-emergency-patches-for-spyware-style-0-day-exploits-update-now/",
+            "urlToImage": "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=775",
+            "publishedAt": "2023-04-08T01:20:44Z",
+            "content": "Apple just issued a short, sharp series of security fixes for Macs, iPhones and iPads.\r\nAll supported macOS versions (Big Sur, Monterey and Ventura) have patches you need to install, but only the iOS… [+4794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Habeck will Tricksereien bei Russland-Sanktionen unterbinden",
+            "description": "Der Zoll soll bei Auffälligkeiten genauer hinschauen, findet Wirtschaftsminister Robert Habeck (Grüne). Damit Russland die EU-Sanktionen nicht umgeht, sollen die Behörden aktiver werden. Vorbild könnte Dänemark sein. Mehr im Liveticker.",
+            "url": "https://www.welt.de/politik/ausland/article244703476/Ukraine-News-Habeck-will-Tricksereien-bei-Russland-Sanktionen-unterbinden.html",
+            "urlToImage": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/Politik__Inland_/mobile244703598/8981358947-ci16x9-w1200/Robert-Habeck.jpg",
+            "publishedAt": "2023-04-08T07:24:00Z",
+            "content": "Die deutschen Behörden müssen aus Sicht von Wirtschaftsminister Robert Habeck strenger gegen Firmen hierzulande vorgehen, die über Drittstaaten Geschäfte mit Russland machen und damit EU-Sanktionen u… [+11526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Numerama"
+            },
+            "author": "Salammbô Marie",
+            "title": "Transatlantique et 2 autres séries historiques à voir sur Netflix",
+            "description": "À l’occasion de la sortie de l’excellente Transatlantique sur Netflix, nous vous recommandons d’en profiter pour regarder deux autres séries historiques tout aussi captivantes : Lidia fait sa loi et The Spy. Vous aimez les histoires vraies et les drames en co…",
+            "url": "https://www.numerama.com/pop-culture/1332094-transatlantique-et-2-autres-series-historiques-a-voir-sur-netflix.html",
+            "urlToImage": "https://www.numerama.com/wp-content/uploads/2023/04/transatlantic.jpg",
+            "publishedAt": "2023-04-08T15:15:00Z",
+            "content": "À loccasion de la sortie de lexcellente Transatlantique sur Netflix, nous vous recommandons den profiter pour regarder deux autres séries historiques tout aussi captivantes : Lidia fait sa loi et The… [+6130 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+            "title": "Apple battuta dal trombettista jazz, per Cupertino nuovi guai dopo i Beatles",
+            "description": "Charlie Bertini ha portato in tribunale il colosso per il marchio Apple Music. E i giudici gli hanno dato ragione",
+            "url": "https://www.repubblica.it/spettacoli/musica/2023/04/08/news/apple_battuta_da_trombettista_jazz_charlie_bertini-395443104/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/04/08/170719726-0e42726a-70f9-43df-a725-21680a2129f0.jpg",
+            "publishedAt": "2023-04-08T17:27:05Z",
+            "content": "Dopo i Beatles, Apple fronteggia un'altra causa musicale, ma stavolta la storia sembra quella di Davide contro Golia. Il trombettista jazz americano Charlie Bertini ha fatto causa al colosso di Cuper… [+2924 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+            "title": "Paradiso e inferno di una superstar in lotta col mondo",
+            "description": "Multischermo / 'The World vs. Boris Becker' è la docuserie disponibile su Apple Tv+, in due parti, in versione originale con sottotitoli, sul campione del tennis",
+            "url": "https://www.repubblica.it/serietv/appletvplus/2023/04/08/news/the_world_vs_boris_becker-395453804/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/04/08/180805293-e23ad2cd-110d-4e0c-9dde-cb4603d80f0f.jpg",
+            "publishedAt": "2023-04-08T16:19:15Z",
+            "content": "Cè una nuova storia di tennis in grado di appassionare parecchio, ma non è una festosa e appassionata rievocazione come la docuserie sui quattro italiani della Davis in Cile: è invece The World vs. B… [+340 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+            "title": "Madrelingua, made in Italy",
+            "description": "Se la colonizzazione non comincia dalla lingua ma dal dominio tecnologico...",
+            "url": "https://www.repubblica.it/dossier/cultura/lapsus/2023/04/08/news/madrelingua_made_in_italy-395323627/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/04/07/175705720-f1878d46-f5c0-443e-acca-873f9e99fdfb.jpg",
+            "publishedAt": "2023-04-08T06:48:58Z",
+            "content": "Nei giorni in cui si lanciava l'idea di multare l'uso di termini stranieri la premier Giorgia Meloni lanciava a una manifestazione che si chiama \"Vinitaly\" l'idea di un \"liceo del Made in Italy\". Que… [+3414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basicthinking.de"
+            },
+            "author": "Andrea Keller",
+            "title": "Kabellos: Das sind die 10 besten Bluetooth-Kopfhörer",
+            "description": "Soundqualität, Akku oder Case: Was macht eigentlich gute Kopfhörer aus? Und: Welche Marken und können überzeugen? In unserem wöchentlichen Ranking zeigen wir dir: die zehn besten Bluetooth-Kopfhörer auf dem deutschen Markt.  Sie sind klein, platzsparend und v…",
+            "url": "https://www.basicthinking.de/blog/2023/04/08/kabellos-das-sind-die-10-besten-bluetooth-kopfhoerer/",
+            "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2023/04/besten-bluetooth-kopfhoerer.jpg",
+            "publishedAt": "2023-04-08T19:04:37Z",
+            "content": "Soundqualität, Akku oder Case: Was macht eigentlich gute Kopfhörer aus? Und: Welche Marken und können überzeugen? In unserem wöchentlichen Ranking zeigen wir dir: die zehn besten Bluetooth-Kopfhörer … [+856 chars]"
+        },
+        {
+            "source": {
+                "id": "marca",
+                "name": "Marca"
+            },
+            "author": "ENRIQUE NARANJO",
+            "title": "Prueba del Dacia Duster 1.3 TCe 150 CV EDC: para los que lo quieren todo",
+            "description": "Normalmente cuando buscamos un Dacia lo hacemos con el condicionante principal del precio. La marca del grupo Renault está actualmente en una posición incluso mejor que antes ya de",
+            "url": "https://www.marca.com/coches-y-motos/coches/dacia/2023/04/08/6431334f46163fed938b4588.html",
+            "urlToImage": "https://phantom-marca.unidadeditorial.es/69df832e45492a21a87fcd986fe4006f/resize/1200/f/jpg/assets/multimedia/imagenes/2023/04/08/16809537348298.jpg",
+            "publishedAt": "2023-04-08T12:20:34Z",
+            "content": "Normalmente cuando buscamos un Dacia lo hacemos con el condicionante principal del precio. La marca del grupo Renault está actualmente en una posición incluso mejor que antes ya de que comenzara la e… [+5668 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Lord of the Rings Mobile Game Arrives in May",
+            "description": "The Lord of the Rings: Heroes of Middle-earth will officially launch on May 10, 2023, on both the Apple App and Google Play stores and will allow players to build a team of heroes and villains from the works of J.R.R. Tolkien to discover the power of a brand …",
+            "url": "https://www.ign.com/articles/lord-of-the-rings-mobile-game-arrives-in-may",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/04/08/heroes-1680950384009.png?width=1280",
+            "publishedAt": "2023-04-08T11:30:16Z",
+            "content": "The Lord of the Rings: Heroes of Middle-earth will officially launch on May 10, 2023, on both the Apple App and Google Play stores and will allow players to build a team of heroes and villains from t… [+1636 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Logan Plant",
+            "title": "Daily Deals: Preorder The Super Mario Bros. Movie, Zelda Switch OLED, and More",
+            "description": null,
+            "url": "https://www.ign.com/articles/daily-deals-preorder-the-super-mario-bros-movie-zelda-switch-oled-and-more",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/04/06/thesupermariobros-movieendingexplainedhowdoesitsetupasequel-36190303-fyfzh9lwuavxcmk6fsczbv6tfawvr4bgqm-xftlsbq-1680801924164.jpg?width=1280",
+            "publishedAt": "2023-04-08T18:56:17Z",
+            "content": "In today's Daily Deals, you can still preorder the gorgeous The Legend of Zelda: Tears of the Kingdom Nintendo Switch OLED Model. Plus, preorders are open for physical copies of The Super Mario Bros.… [+14365 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Brian Barnett",
+            "title": "Best Pokémon Card Binder",
+            "description": "pokemon card binder, pokemon cards binder, pokemon binder for cards, pokemon card holder binder, best binder for pokemon cards",
+            "url": "https://www.ign.com/articles/best-pokmon-card-binder",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/04/06/untitled-design-1680802741463.png?width=1280",
+            "publishedAt": "2023-04-08T02:12:00Z",
+            "content": "Pokemon cards are all the rage (again)! If you, like so many of us, are diving back into the glorious world of the Pokemon Trading Card Game (TCG), but don't have a dedicated place to keep all your b… [+3002 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Nield",
+            "title": "Full iPhone 15 Pro design leaks out in stunning new unofficial renders",
+            "description": "We've got our best look yet at what's coming with the iPhone 15 Pro in terms of its design and color options.",
+            "url": "https://www.techradar.com/news/full-iphone-15-pro-design-leaks-out-in-stunning-new-unofficial-renders",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/W2m4dBN436AsRDV29pamxY-1200-80.jpg",
+            "publishedAt": "2023-04-08T09:30:52Z",
+            "content": "We're confident in assuming that the iPhone 15 series is going to be launched in September, and while we wait for these handsets to be official, we've got some high-quality renders of the Pro model f… [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gordon Kelly, Senior Contributor, \n Gordon Kelly, Senior Contributor\n https://www.forbes.com/sites/gordonkelly/",
+            "title": "Apple iOS 16.4.1 Release: Should You Upgrade?",
+            "description": "Apple iOS 16.4.1 has been released and it is a critical update for all iPhone owners...",
+            "url": "https://www.forbes.com/sites/gordonkelly/2023/04/08/apple-ios-1641-release-should-you-upgrade-new-iphone-update/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63207f19127efb073ad70386/0x0.png?format=png&crop=1458,821,x152,y66,safe&width=1200",
+            "publishedAt": "2023-04-08T11:58:19Z",
+            "content": "Apple iOS 16 \r\nApple\r\nApple iOS 16.4.1 is an emergency release less than two weeks after iOS 16.4 to address bugs and critical security vulnerabilities, making it an important update. Heres everythin… [+3555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "John Navin, Contributor, \n John Navin, Contributor\n https://www.forbes.com/sites/johnnavin/",
+            "title": "These Gold Stocks Soar Higher: Outperform Apple, Google And Microsoft",
+            "description": "Gold and gold stocks are blasting higher indicating a belief among those buying that perhaps inflation is more of a lasting concern than the Fed’s ability to tame it.",
+            "url": "https://www.forbes.com/sites/johnnavin/2023/04/08/these-gold-stocks-soar-higher-outperform-apple-google-and-microsoft/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6431c61fd7bd6767a2eb47da/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-08T20:00:30Z",
+            "content": "gold, inflation\r\ngetty\r\nGold and gold stocks are blasting higher, possibly indicating a belief among those buying that inflation is more of a lasting concern than the Feds ability to tame it. The pri… [+3112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gordon Kelly, Senior Contributor, \n Gordon Kelly, Senior Contributor\n https://www.forbes.com/sites/gordonkelly/",
+            "title": "New iPhone 15 Exclusive Reveals Stunning Apple Design Decisions",
+            "description": "Apple's iPhone 15 Pro and Pro Max design changes have leaked in stunning detail...",
+            "url": "https://www.forbes.com/sites/gordonkelly/2023/04/08/apple-iphone-15-pro-max-design-display-camera-iphone-14-pro-max-upgrade/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64315c48a5acd0b7953c0b56/0x0.jpg?format=jpg&crop=2923,1643,x65,y0,safe&width=1200",
+            "publishedAt": "2023-04-08T19:38:21Z",
+            "content": "Apple iPhone 15 Pro Max new red finish\r\n9to5Mac, Ian Zelbo\r\nThe most exciting and most controversial iPhone 15 Pro and Pro Max design changes have just been rendered following the leak of new detaile… [+2858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Kate O'Flaherty, Senior Contributor, \n Kate O'Flaherty, Senior Contributor\n https://www.forbes.com/sites/kateoflahertyuk/",
+            "title": "iOS 16.4.1—Update Now Warning Issued To All iPhone Users",
+            "description": "Apple's iOS 16.4.1 fixes two security vulnerabilities—both of which are being used in real-life attacks.",
+            "url": "https://www.forbes.com/sites/kateoflahertyuk/2023/04/08/ios-1641-update-now-warning-issued-to-all-iphone-users/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6431aa6f2e61aa767cb0e670/0x0.jpg?format=jpg&crop=1116,628,x0,y2,safe&width=1200",
+            "publishedAt": "2023-04-08T18:03:25Z",
+            "content": "Apple has issued iOS 16.4.1, and the iPhone update comes with a warning to update now. Thats because iOS 16.4.1 fixes two security vulnerabilitiesboth of which are being used in real-life attacks.\r\nA… [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Katie Chang, Contributor, \n Katie Chang, Contributor\n https://www.forbes.com/sites/katiechang/",
+            "title": "A Louisville Guide Beyond The Kentucky Derby: Where To Stay, Eat, And Drink",
+            "description": "Whether you’ve got a trip planned to hopefully win big at the 2023 Kentucky Derby or simply want to explore this underrated destination as a first-timer, here’s a handy guide on where to stay, eat, and drink in Louisville, Kentucky.",
+            "url": "https://www.forbes.com/sites/katiechang/2023/04/08/a-louisville-guide-beyond-the-kentucky-derby-where-to-stay-eat-and-drink/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/642de0d7a7104e85f46ba1ae/0x0.jpg?format=jpg&crop=2500,1407,x0,y58,safe&width=1200",
+            "publishedAt": "2023-04-08T13:00:41Z",
+            "content": "Outside of being synonymous with the annual Kentucky Derbywhich is being held on May 6 this yearand boasting a rich bourbon heritage, including Brough Brothers Distillery, Kentucky's first African Am… [+5210 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "California family shows up on bike thief's door step with help from Apple AirTag: 'The look on his face' - Fox News",
+            "description": "<ol><li>California family shows up on bike thief's door step with help from Apple AirTag: 'The look on his face'  Fox News\r\n</li><li>OC family turns tables on thief by using AirTag to take back stolen e-bike  FOX 11 Los Angeles\r\n</li><li>OC dad credits Apple …",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2NhbGlmb3JuaWEtZmFtaWx5LXNob3dzLWJpa2UtdGhpZWZzLWRvb3Itc3RlcC1oZWxwLWFwcGxlLWFpcnRhZ9IBXmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2NhbGlmb3JuaWEtZmFtaWx5LXNob3dzLWJpa2UtdGhpZWZzLWRvb3Itc3RlcC1oZWxwLWFwcGxlLWFpcnRhZy5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-08T00:37:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "California family shows up on bike thief's door step with help from Apple AirTag: 'The look on his face' - Fox News",
+            "description": "<ol><li>California family shows up on bike thief's door step with help from Apple AirTag: 'The look on his face'  Fox News\r\n</li><li>OC family turns tables on thief by using AirTag to take back stolen e-bike  FOX 11 Los Angeles\r\n</li><li>OC dad credits Apple …",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2NhbGlmb3JuaWEtZmFtaWx5LXNob3dzLWJpa2UtdGhpZWZzLWRvb3Itc3RlcC1oZWxwLWFwcGxlLWFpcnRhZ9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-08T00:37:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Krzysztof Rojek",
+            "title": "YouTube Music skopiuje jedną z najfajniejszych funkcji Spotify",
+            "description": "Jeżeli lubicie karaoke, być może powinniście zainteresować się nową funkcjonalnością YouTube Music. Usługa kopiuje funkcje od Spotify.\n \n The post YouTube Music skopiuje jedną z najfajniejszych funkcji Spotify appeared first on AntyWeb.",
+            "url": "https://antyweb.pl/yt-music-spotify",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2022/07/jpdnzz20qs/youtube.jpg",
+            "publishedAt": "2023-04-08T13:07:50Z",
+            "content": "Mona dzi powiedzie, e aplikacje do streamingu muzyki róni si od siebie bardzo niewiele. Wytwórnie muzyczne dbaj o to, by kada nowa muzyka znalaza si na praktycznie wszystkich z nich. Kosztuje to bowi… [+2201 chars]"
+        }
+    ]
+}
